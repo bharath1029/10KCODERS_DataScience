@@ -1,0 +1,246 @@
+1,2024-05-21,2,1001,Customer_2,East,9,Product_9,Grocery,9,1047,9423,UPI
+2,2024-09-20,49,2057,Customer_49,West,5,Product_5,Electronics,9,632,5688,Card
+3,2024-03-18,26,1074,Customer_26,East,7,Product_7,Fashion,6,1625,9750,Card
+4,2024-04-28,23,1075,Customer_23,West,18,Product_18,Home Decor,8,1099,8792,COD
+5,2024-04-27,49,1076,Customer_49,West,3,Product_3,Electronics,8,1214,9712,Card
+6,2024-02-07,40,1077,Customer_40,West,12,Product_12,Home Decor,6,1539,9234,UPI
+7,2024-01-18,37,1002,Customer_37,North,19,Product_19,Home Decor,1,1563,1563,NetBanking
+8,2024-09-26,19,2058,Customer_19,South,8,Product_8,Home Decor,5,1924,9620,COD
+9,2024-03-31,8,1078,Customer_8,North,20,Product_20,Electronics,8,1558,12464,UPI
+10,2024-03-28,9,1003,Customer_9,South,12,Product_12,Home Decor,4,1539,6156,COD
+11,2024-03-29,40,1004,Customer_40,West,14,Product_14,Grocery,3,204,612,NetBanking
+12,2024-05-01,19,1079,Customer_19,South,16,Product_16,Electronics,2,1948,3896,Card
+13,2024-02-20,15,1080,Customer_15,West,1,Product_1,Grocery,5,574,2870,Card
+14,2024-10-14,39,2059,Customer_39,East,11,Product_11,Grocery,3,1093,3279,COD
+15,2024-10-05,20,2060,Customer_20,North,15,Product_15,Grocery,4,976,3904,UPI
+16,2024-06-05,12,1081,Customer_12,South,12,Product_12,Home Decor,1,1539,1539,Card
+17,2024-06-19,5,1082,Customer_5,West,2,Product_2,Home Decor,1,481,481,UPI
+18,2024-04-27,1,1083,Customer_1,South,5,Product_5,Electronics,10,632,6320,NetBanking
+19,2024-05-25,40,1005,Customer_40,West,14,Product_14,Grocery,9,204,1836,COD
+20,2024-09-29,50,2061,Customer_50,South,3,Product_3,Electronics,6,1214,7284,UPI
+21,2024-06-28,48,1006,Customer_48,East,17,Product_17,Electronics,4,1320,5280,COD
+22,2024-02-14,25,1007,Customer_25,East,18,Product_18,Home Decor,1,1099,1099,Card
+23,2024-07-17,48,2062,Customer_48,East,16,Product_16,Electronics,5,1948,9740,NetBanking
+24,2024-12-24,44,2063,Customer_44,North,16,Product_16,Electronics,3,1948,5844,COD
+25,2024-04-13,30,1008,Customer_30,West,12,Product_12,Home Decor,10,1539,15390,NetBanking
+26,2024-04-22,5,1009,Customer_5,West,13,Product_13,Home Decor,6,1267,7602,NetBanking
+27,2024-02-11,39,1010,Customer_39,East,5,Product_5,Electronics,1,632,632,NetBanking
+28,2024-09-05,30,2064,Customer_30,West,20,Product_20,Electronics,2,1558,3116,COD
+29,2024-08-09,17,2065,Customer_17,West,16,Product_16,Electronics,5,1948,9740,UPI
+30,2024-07-01,33,2066,Customer_33,North,20,Product_20,Electronics,10,1558,15580,Card
+31,2024-02-13,36,1084,Customer_36,South,4,Product_4,Grocery,5,1380,6900,Card
+32,2024-03-19,50,1085,Customer_50,South,3,Product_3,Electronics,6,1214,7284,Card
+33,2024-03-25,47,1086,Customer_47,West,16,Product_16,Electronics,5,1948,9740,Card
+34,2024-02-16,26,1087,Customer_26,East,2,Product_2,Home Decor,2,481,962,COD
+35,2024-05-14,2,1088,Customer_2,East,1,Product_1,Grocery,10,574,5740,COD
+36,2024-05-12,43,1089,Customer_43,South,13,Product_13,Home Decor,10,1267,12670,NetBanking
+37,2024-05-07,48,1090,Customer_48,East,10,Product_10,Fashion,4,273,1092,Card
+38,2024-02-29,47,1091,Customer_47,West,9,Product_9,Grocery,4,1047,4188,COD
+39,2024-03-17,48,1092,Customer_48,East,6,Product_6,Fashion,7,1421,9947,UPI
+40,2024-03-13,19,1093,Customer_19,South,17,Product_17,Electronics,4,1320,5280,Card
+41,2024-01-04,46,1094,Customer_46,South,19,Product_19,Home Decor,10,1563,15630,Card
+42,2024-03-16,39,1095,Customer_39,East,1,Product_1,Grocery,9,574,5166,NetBanking
+43,2024-01-20,19,1096,Customer_19,South,14,Product_14,Grocery,9,204,1836,NetBanking
+44,2024-06-26,15,1097,Customer_15,West,4,Product_4,Grocery,2,1380,2760,COD
+45,2024-03-16,13,1098,Customer_13,East,14,Product_14,Grocery,2,204,408,NetBanking
+46,2024-02-15,44,1099,Customer_44,North,2,Product_2,Home Decor,9,481,4329,UPI
+47,2024-02-10,3,1100,Customer_3,North,14,Product_14,Grocery,4,204,816,UPI
+48,2024-02-17,39,1101,Customer_39,East,8,Product_8,Home Decor,2,1924,3848,COD
+49,2024-03-02,23,1102,Customer_23,West,8,Product_8,Home Decor,8,1924,15392,UPI
+50,2024-05-12,26,1103,Customer_26,East,17,Product_17,Electronics,7,1320,9240,COD
+51,2024-02-09,17,1104,Customer_17,West,19,Product_19,Home Decor,5,1563,7815,Card
+52,2024-03-26,7,1011,Customer_7,West,17,Product_17,Electronics,6,1320,7920,COD
+53,2024-04-08,44,1105,Customer_44,North,2,Product_2,Home Decor,9,481,4329,NetBanking
+54,2024-04-05,29,1012,Customer_29,West,9,Product_9,Grocery,5,1047,5235,UPI
+55,2024-01-28,5,1106,Customer_5,West,4,Product_4,Grocery,1,1380,1380,COD
+56,2024-04-07,25,1107,Customer_25,East,19,Product_19,Home Decor,7,1563,10941,COD
+57,2024-03-01,43,1108,Customer_43,South,1,Product_1,Grocery,5,574,2870,NetBanking
+58,2024-01-23,50,1109,Customer_50,South,16,Product_16,Electronics,1,1948,1948,COD
+59,2024-05-22,45,1013,Customer_45,East,1,Product_1,Grocery,1,574,574,Card
+60,2024-06-15,16,1014,Customer_16,North,8,Product_8,Home Decor,9,1924,17316,COD
+61,2024-04-30,27,1110,Customer_27,West,10,Product_10,Fashion,8,273,2184,NetBanking
+62,2024-04-27,19,1111,Customer_19,South,13,Product_13,Home Decor,10,1267,12670,UPI
+63,2024-11-25,2,2067,Customer_2,East,16,Product_16,Electronics,3,1948,5844,UPI
+64,2024-01-21,10,1112,Customer_10,North,14,Product_14,Grocery,9,204,1836,UPI
+65,2024-03-28,44,1113,Customer_44,North,8,Product_8,Home Decor,8,1924,15392,Card
+66,2024-07-06,5,2068,Customer_5,West,7,Product_7,Fashion,7,1625,11375,Card
+67,2024-05-18,21,1114,Customer_21,West,3,Product_3,Electronics,2,1214,2428,NetBanking
+68,2024-05-14,33,1115,Customer_33,North,12,Product_12,Home Decor,7,1539,10773,NetBanking
+69,2024-02-20,17,1015,Customer_17,West,17,Product_17,Electronics,2,1320,2640,COD
+70,2024-02-04,1,1116,Customer_1,South,9,Product_9,Grocery,9,1047,9423,COD
+71,2024-11-29,24,2069,Customer_24,West,18,Product_18,Home Decor,2,1099,2198,COD
+72,2024-05-29,26,1016,Customer_26,East,8,Product_8,Home Decor,8,1924,15392,COD
+73,2024-11-07,35,2070,Customer_35,East,7,Product_7,Fashion,3,1625,4875,UPI
+74,2024-04-26,25,1017,Customer_25,East,8,Product_8,Home Decor,6,1924,11544,Card
+75,2024-05-05,1,1018,Customer_1,South,8,Product_8,Home Decor,10,1924,19240,UPI
+76,2024-03-23,16,1019,Customer_16,North,14,Product_14,Grocery,3,204,612,NetBanking
+77,2024-05-04,24,1117,Customer_24,West,7,Product_7,Fashion,3,1625,4875,UPI
+78,2024-04-05,31,1020,Customer_31,South,2,Product_2,Home Decor,7,481,3367,NetBanking
+79,2024-06-12,38,1118,Customer_38,North,1,Product_1,Grocery,3,574,1722,COD
+80,2024-02-15,23,1119,Customer_23,West,8,Product_8,Home Decor,2,1924,3848,Card
+81,2024-03-02,29,1120,Customer_29,West,10,Product_10,Fashion,10,273,2730,UPI
+82,2024-03-07,45,1121,Customer_45,East,17,Product_17,Electronics,10,1320,13200,UPI
+83,2024-12-28,7,2071,Customer_7,West,8,Product_8,Home Decor,7,1924,13468,COD
+84,2024-08-30,45,2072,Customer_45,East,17,Product_17,Electronics,9,1320,11880,Card
+85,2024-05-26,43,1122,Customer_43,South,16,Product_16,Electronics,3,1948,5844,Card
+86,2024-03-15,38,1021,Customer_38,North,8,Product_8,Home Decor,1,1924,1924,UPI
+87,2024-11-12,49,2073,Customer_49,West,12,Product_12,Home Decor,4,1539,6156,NetBanking
+88,2024-02-05,50,1123,Customer_50,South,15,Product_15,Grocery,10,976,9760,UPI
+89,2024-09-07,20,2074,Customer_20,North,9,Product_9,Grocery,8,1047,8376,COD
+90,2024-04-09,47,1124,Customer_47,West,4,Product_4,Grocery,1,1380,1380,NetBanking
+91,2024-04-27,39,1125,Customer_39,East,16,Product_16,Electronics,5,1948,9740,NetBanking
+92,2024-06-21,3,1126,Customer_3,North,17,Product_17,Electronics,8,1320,10560,UPI
+93,2024-03-03,28,1022,Customer_28,North,4,Product_4,Grocery,10,1380,13800,COD
+94,2024-03-04,46,1127,Customer_46,South,5,Product_5,Electronics,5,632,3160,UPI
+95,2024-06-24,35,1023,Customer_35,East,9,Product_9,Grocery,2,1047,2094,Card
+96,2024-07-23,39,2075,Customer_39,East,18,Product_18,Home Decor,10,1099,10990,NetBanking
+97,2024-01-05,46,1024,Customer_46,South,16,Product_16,Electronics,10,1948,19480,UPI
+98,2024-07-15,19,2076,Customer_19,South,16,Product_16,Electronics,8,1948,15584,COD
+99,2024-01-10,29,1128,Customer_29,West,9,Product_9,Grocery,7,1047,7329,COD
+100,2024-01-11,16,1129,Customer_16,North,14,Product_14,Grocery,7,204,1428,Card
+101,2024-04-02,14,1130,Customer_14,South,15,Product_15,Grocery,5,976,4880,COD
+102,2024-03-11,12,1025,Customer_12,South,9,Product_9,Grocery,6,1047,6282,COD
+103,2024-05-22,11,1131,Customer_11,West,1,Product_1,Grocery,9,574,5166,Card
+104,2024-06-05,48,1132,Customer_48,East,8,Product_8,Home Decor,6,1924,11544,Card
+105,2024-05-15,48,1026,Customer_48,East,8,Product_8,Home Decor,6,1924,11544,NetBanking
+106,2024-06-06,32,1133,Customer_32,West,15,Product_15,Grocery,1,976,976,UPI
+107,2024-04-18,4,1027,Customer_4,North,2,Product_2,Home Decor,4,481,1924,UPI
+108,2024-08-01,36,2077,Customer_36,South,18,Product_18,Home Decor,1,1099,1099,UPI
+109,2024-02-16,21,1028,Customer_21,West,14,Product_14,Grocery,7,204,1428,Card
+110,2024-02-22,30,1134,Customer_30,West,5,Product_5,Electronics,4,632,2528,Card
+111,2024-05-10,40,1135,Customer_40,West,2,Product_2,Home Decor,4,481,1924,Card
+112,2024-02-04,27,1029,Customer_27,West,16,Product_16,Electronics,5,1948,9740,Card
+113,2024-03-14,24,1136,Customer_24,West,12,Product_12,Home Decor,7,1539,10773,Card
+114,2024-05-29,32,1137,Customer_32,West,16,Product_16,Electronics,10,1948,19480,COD
+115,2024-08-16,1,2078,Customer_1,South,2,Product_2,Home Decor,8,481,3848,COD
+116,2024-12-13,3,2079,Customer_3,North,4,Product_4,Grocery,3,1380,4140,NetBanking
+117,2024-10-13,6,2080,Customer_6,West,13,Product_13,Home Decor,2,1267,2534,Card
+118,2024-03-06,36,1030,Customer_36,South,19,Product_19,Home Decor,4,1563,6252,NetBanking
+119,2024-12-09,18,2081,Customer_18,South,6,Product_6,Fashion,3,1421,4263,NetBanking
+120,2024-02-02,38,1138,Customer_38,North,2,Product_2,Home Decor,2,481,962,COD
+121,2024-07-05,9,2082,Customer_9,South,18,Product_18,Home Decor,5,1099,5495,Card
+122,2024-04-12,5,1031,Customer_5,West,10,Product_10,Fashion,8,273,2184,NetBanking
+123,2024-05-20,5,1032,Customer_5,West,14,Product_14,Grocery,9,204,1836,NetBanking
+127,2024-02-28,40,1033,Customer_40,West,13,Product_13,Home Decor,6,1267,7602,NetBanking
+128,2024-01-24,16,1034,Customer_16,North,14,Product_14,Grocery,2,204,408,UPI
+129,2024-06-12,48,1035,Customer_48,East,2,Product_2,Home Decor,3,481,1443,Card
+130,2024-06-27,10,1036,Customer_10,North,15,Product_15,Grocery,10,976,9760,NetBanking
+132,2024-05-24,49,1037,Customer_49,West,7,Product_7,Fashion,3,1625,4875,NetBanking
+135,2024-05-02,23,1038,Customer_23,West,8,Product_8,Home Decor,4,1924,7696,Card
+136,2024-05-23,7,1039,Customer_7,West,5,Product_5,Electronics,1,632,632,COD
+137,2024-01-05,22,1040,Customer_22,South,17,Product_17,Electronics,2,1320,2640,NetBanking
+138,2024-05-28,6,1041,Customer_6,West,6,Product_6,Fashion,10,1421,14210,COD
+140,2024-05-16,15,1042,Customer_15,West,8,Product_8,Home Decor,4,1924,7696,Card
+144,2024-05-15,44,1043,Customer_44,North,15,Product_15,Grocery,3,976,2928,COD
+145,2024-04-15,1,1139,Customer_1,South,7,Product_7,Fashion,6,1625,9750,NetBanking
+146,2024-01-20,43,1140,Customer_43,South,17,Product_17,Electronics,4,1320,5280,Card
+148,2024-02-28,15,1141,Customer_15,West,3,Product_3,Electronics,4,1214,4856,COD
+149,2024-04-01,50,1142,Customer_50,South,1,Product_1,Grocery,1,574,574,Card
+150,2024-05-31,14,1143,Customer_14,South,6,Product_6,Fashion,1,1421,1421,UPI
+153,2024-05-23,21,1144,Customer_21,West,20,Product_20,Electronics,9,1558,14022,NetBanking
+155,2024-02-10,8,1145,Customer_8,North,18,Product_18,Home Decor,7,1099,7693,COD
+157,2024-03-30,8,1044,Customer_8,North,12,Product_12,Home Decor,10,1539,15390,NetBanking
+158,2024-04-26,46,1146,Customer_46,South,19,Product_19,Home Decor,9,1563,14067,NetBanking
+160,2024-06-11,46,1045,Customer_46,South,19,Product_19,Home Decor,2,1563,3126,COD
+161,2024-03-06,34,1046,Customer_34,North,15,Product_15,Grocery,5,976,4880,Card
+162,2024-03-19,5,1147,Customer_5,West,3,Product_3,Electronics,6,1214,7284,COD
+163,2024-01-07,46,1047,Customer_46,South,13,Product_13,Home Decor,7,1267,8869,UPI
+164,2024-05-29,6,1148,Customer_6,West,17,Product_17,Electronics,9,1320,11880,COD
+166,2024-03-03,43,1048,Customer_43,South,9,Product_9,Grocery,2,1047,2094,COD
+167,2024-02-25,34,1149,Customer_34,North,14,Product_14,Grocery,9,204,1836,COD
+168,2024-03-13,50,1150,Customer_50,South,8,Product_8,Home Decor,3,1924,5772,UPI
+169,2024-01-12,40,1151,Customer_40,West,4,Product_4,Grocery,7,1380,9660,UPI
+170,2024-06-13,6,1049,Customer_6,West,11,Product_11,Grocery,5,1093,5465,NetBanking
+171,2024-03-16,46,1152,Customer_46,South,5,Product_5,Electronics,10,632,6320,NetBanking
+172,2024-01-15,36,1050,Customer_36,South,4,Product_4,Grocery,4,1380,5520,Card
+173,2024-05-15,43,1051,Customer_43,South,16,Product_16,Electronics,6,1948,11688,Card
+174,2024-03-12,19,1153,Customer_19,South,7,Product_7,Fashion,9,1625,14625,UPI
+175,2024-06-03,38,1052,Customer_38,North,11,Product_11,Grocery,4,1093,4372,Card
+176,2024-04-14,25,1154,Customer_25,East,17,Product_17,Electronics,2,1320,2640,Card
+178,2024-05-28,49,1053,Customer_49,West,12,Product_12,Home Decor,1,1539,1539,Card
+180,2024-01-20,45,1054,Customer_45,East,2,Product_2,Home Decor,8,481,3848,Card
+181,2024-01-02,31,1155,Customer_31,South,13,Product_13,Home Decor,4,1267,5068,UPI
+183,2024-01-04,42,1156,Customer_42,East,18,Product_18,Home Decor,5,1099,5495,Card
+185,2024-03-31,37,1157,Customer_37,North,8,Product_8,Home Decor,4,1924,7696,UPI
+187,2024-05-03,8,1158,Customer_8,North,16,Product_16,Electronics,5,1948,9740,COD
+188,2024-01-11,8,1055,Customer_8,North,5,Product_5,Electronics,2,632,1264,COD
+189,2024-04-08,22,1056,Customer_22,South,1,Product_1,Grocery,5,574,2870,COD
+190,2024-05-12,34,1159,Customer_34,North,7,Product_7,Fashion,4,1625,6500,Card
+191,2024-01-26,35,1057,Customer_35,East,16,Product_16,Electronics,1,1948,1948,NetBanking
+192,2024-06-05,23,1160,Customer_23,West,14,Product_14,Grocery,8,204,1632,NetBanking
+194,2024-04-19,32,1058,Customer_32,West,15,Product_15,Grocery,4,976,3904,NetBanking
+196,2024-06-10,6,1059,Customer_6,West,12,Product_12,Home Decor,5,1539,7695,COD
+197,2024-02-11,45,1161,Customer_45,East,15,Product_15,Grocery,5,976,4880,COD
+198,2024-03-03,45,1162,Customer_45,East,20,Product_20,Electronics,6,1558,9348,Card
+199,2024-02-15,26,1060,Customer_26,East,16,Product_16,Electronics,6,1948,11688,NetBanking
+200,2024-02-18,3,1163,Customer_3,North,20,Product_20,Electronics,1,1558,1558,UPI
+201,2024-05-11,14,1164,Customer_14,South,8,Product_8,Home Decor,1,1924,1924,COD
+202,2024-03-11,23,1061,Customer_23,West,8,Product_8,Home Decor,7,1924,13468,UPI
+203,2024-06-11,14,1165,Customer_14,South,2,Product_2,Home Decor,3,481,1443,NetBanking
+204,2024-05-31,33,1062,Customer_33,North,5,Product_5,Electronics,10,632,6320,UPI
+205,2024-06-30,44,1063,Customer_44,North,20,Product_20,Electronics,5,1558,7790,COD
+206,2024-02-03,29,1166,Customer_29,West,13,Product_13,Home Decor,6,1267,7602,UPI
+207,2024-06-26,21,1064,Customer_21,West,3,Product_3,Electronics,10,1214,12140,NetBanking
+208,2024-01-24,41,1167,Customer_41,West,10,Product_10,Fashion,7,273,1911,UPI
+209,2024-05-31,7,1168,Customer_7,West,5,Product_5,Electronics,9,632,5688,Card
+210,2024-05-03,16,1065,Customer_16,North,10,Product_10,Fashion,3,273,819,Card
+211,2024-06-30,14,1169,Customer_14,South,18,Product_18,Home Decor,3,1099,3297,UPI
+212,2024-03-16,14,1170,Customer_14,South,3,Product_3,Electronics,4,1214,4856,NetBanking
+213,2024-01-19,28,1171,Customer_28,North,20,Product_20,Electronics,1,1558,1558,COD
+214,2024-05-11,17,1172,Customer_17,West,20,Product_20,Electronics,4,1558,6232,COD
+215,2024-03-12,23,1173,Customer_23,West,10,Product_10,Fashion,7,273,1911,COD
+216,2024-01-10,11,1174,Customer_11,West,8,Product_8,Home Decor,6,1924,11544,UPI
+217,2024-02-06,5,1175,Customer_5,West,10,Product_10,Fashion,1,273,273,UPI
+218,2024-04-20,10,1176,Customer_10,North,14,Product_14,Grocery,8,204,1632,NetBanking
+219,2024-02-19,7,1177,Customer_7,West,10,Product_10,Fashion,7,273,1911,Card
+220,2024-03-05,31,1178,Customer_31,South,12,Product_12,Home Decor,7,1539,10773,UPI
+221,2024-03-03,5,1179,Customer_5,West,14,Product_14,Grocery,9,204,1836,COD
+222,2024-02-05,28,1180,Customer_28,North,13,Product_13,Home Decor,6,1267,7602,Card
+223,2024-05-19,16,1181,Customer_16,North,19,Product_19,Home Decor,6,1563,9378,COD
+224,2024-03-23,37,1182,Customer_37,North,9,Product_9,Grocery,2,1047,2094,Card
+225,2024-05-16,28,1066,Customer_28,North,13,Product_13,Home Decor,6,1267,7602,COD
+226,2024-06-06,38,1067,Customer_38,North,8,Product_8,Home Decor,6,1924,11544,NetBanking
+227,2024-04-20,38,1068,Customer_38,North,18,Product_18,Home Decor,3,1099,3297,NetBanking
+228,2024-04-02,39,1069,Customer_39,East,15,Product_15,Grocery,5,976,4880,NetBanking
+229,2024-03-15,24,1070,Customer_24,West,12,Product_12,Home Decor,6,1539,9234,Card
+230,2024-03-29,7,1183,Customer_7,West,17,Product_17,Electronics,8,1320,10560,UPI
+231,2024-03-18,22,1184,Customer_22,South,1,Product_1,Grocery,9,574,5166,UPI
+232,2024-02-04,8,1071,Customer_8,North,13,Product_13,Home Decor,10,1267,12670,Card
+233,2024-06-20,30,1185,Customer_30,West,18,Product_18,Home Decor,9,1099,9891,UPI
+234,2024-01-27,19,1072,Customer_19,South,2,Product_2,Home Decor,1,481,481,Card
+235,2024-06-06,6,1186,Customer_6,West,2,Product_2,Home Decor,8,481,3848,Card
+236,2024-05-30,38,1187,Customer_38,North,12,Product_12,Home Decor,6,1539,9234,NetBanking
+237,2024-02-01,43,1188,Customer_43,South,17,Product_17,Electronics,2,1320,2640,UPI
+238,2024-04-07,47,1073,Customer_47,West,3,Product_3,Electronics,5,1214,6070,COD
+239,2024-01-23,10,1189,Customer_10,North,10,Product_10,Fashion,9,273,2457,UPI
+240,2024-05-28,14,1190,Customer_14,South,8,Product_8,Home Decor,6,1924,11544,Card
+241,2024-02-20,14,1191,Customer_14,South,9,Product_9,Grocery,8,1047,8376,COD
+242,2024-05-08,1,1192,Customer_1,South,10,Product_10,Fashion,9,273,2457,COD
+243,2024-06-11,24,1193,Customer_24,West,6,Product_6,Fashion,7,1421,9947,UPI
+244,2024-02-15,14,1194,Customer_14,South,20,Product_20,Electronics,3,1558,4674,NetBanking
+245,2024-03-24,16,1195,Customer_16,North,11,Product_11,Grocery,5,1093,5465,NetBanking
+246,2024-03-01,10,1196,Customer_10,North,18,Product_18,Home Decor,2,1099,2198,UPI
+247,2024-01-01,21,1197,Customer_21,West,5,Product_5,Electronics,5,632,3160,Card
+248,2024-04-05,10,1198,Customer_10,North,10,Product_10,Fashion,5,273,1365,Card
+249,2024-02-22,48,1199,Customer_48,East,16,Product_16,Electronics,2,1948,3896,NetBanking
+250,2024-02-21,50,1200,Customer_50,South,17,Product_17,Electronics,8,1320,10560,NetBanking
+251,2024-08-31,24,2007,Customer_24,West,9,Product_9,Grocery,7,1047,7329,NetBanking
+252,2024-09-07,27,2008,Customer_27,West,3,Product_3,Electronics,3,1214,3642,UPI
+253,2024-09-26,11,2009,Customer_11,West,1,Product_1,Grocery,3,574,1722,UPI
+254,2024-12-14,16,2010,Customer_16,North,16,Product_16,Electronics,3,1948,5844,Card
+255,2024-09-12,6,2011,Customer_6,West,10,Product_10,Fashion,2,273,546,NetBanking
+256,2024-09-06,2,2012,Customer_2,East,1,Product_1,Grocery,8,574,4592,COD
+257,2024-08-12,26,2013,Customer_26,East,12,Product_12,Home Decor,9,1539,13851,UPI
+258,2024-12-25,14,2014,Customer_14,South,11,Product_11,Grocery,2,1093,2186,COD
+259,2024-10-23,31,2015,Customer_31,South,13,Product_13,Home Decor,3,1267,3801,UPI
+260,2024-11-03,33,2016,Customer_33,North,20,Product_20,Electronics,10,1558,15580,NetBanking
+261,2024-10-03,22,2017,Customer_22,South,13,Product_13,Home Decor,6,1267,7602,Card
+262,2024-12-20,32,2018,Customer_32,West,15,Product_15,Grocery,7,976,6832,COD
+263,2024-10-01,19,2019,Customer_19,South,9,Product_9,Grocery,3,1047,3141,UPI
+264,2024-08-06,39,2050,Customer_39,East,3,Product_3,Electronics,4,1214,4856,COD
+265,2024-12-06,15,2051,Customer_15,West,19,Product_19,Home Decor,1,1563,1563,Card
+266,2024-10-29,36,2052,Customer_36,South,13,Product_13,Home Decor,8,1267,10136,COD
+267,2024-10-14,26,2053,Customer_26,East,3,Product_3,Electronics,4,1214,4856,NetBanking
+268,2024-10-09,40,2054,Customer_40,West,7,Product_7,Fashion,5,1625,8125,Card
+269,2024-08-25,1,2055,Customer_1,South,14,Product_14,Grocery,9,204,1836,NetBanking
+270,2024-07-03,41,2056,Customer_41,West,19,Product_19,Home Decor,4,1563,6252,COD
