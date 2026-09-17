@@ -1,0 +1,201 @@
+order_id,firstname,lastname,email,product,quantity,pricee,City,state,pincode,order_date,payment_method,status
+1001,Sita,Reddy,sita.reddy@email.com,Camera,2,25000,Kolkata,WB,700001,15-Jan-2025,Credit Card,Cancelled
+1002,Sita,Nair,sita.nair@email.com,Mouse,1,600,Delhi,DL,110001,,,Cancelled
+1003,Kiran,Mehta,kiran.mehta@email.com,Keyboard,1,1000,Hyderabad,TS,500001,19-Jan-2025,COD,Cancelled
+1004,Kiran,Singh,kiran.singh@email.com,Camera,2,25000,Mumbai,MH,400001,18-Jan-2025,COD,Pending
+1005,Rahul,Nair,rahul.nair@email.com,Keyboard,2,1000,Ahmedabad,GJ,380001,18-Jan-2025,NetBanking,Cancelled
+1006,Pooja,Verma,pooja.verma@email.com,Mobile,1,20000,Chennai,TN,600001,16-Jan-2025,NetBanking,Pending
+1007,Rahul,Das,rahul.das@email.com,Charger,1,1200,Chennai,TN,600001,18-Jan-2025,,Returned
+1008,Sneha,Verma,sneha.verma@email.com,Laptop,0,50000,Mumbai,MH,400001,20-Jan-2025,UPI,Pending
+1009,Anil,Das,anil.das@email.com,Charger,0,1200,Kolkata,WB,700001,,,Returned
+1010,Sita,Nair,sita.nair@email.com,Headphones,1,500,Chennai,TN,600001,14-Jan-2025,NetBanking,Delivered
+1011,Vikas,Patel,vikas.patel@email.com,Tablet,2,30000,Ahmedabad,GJ,380001,13-Jan-2025,,Delivered
+1012,Priya,Kumar,priya.kumar@email.com,Headphones,2,500,Mumbai,MH,400001,16-Jan-2025,NetBanking,Returned
+1013,Sita,Singh,sita.singh@email.com,Mouse,1,600,Ahmedabad,GJ,380001,14-Jan-2025,COD,Delivered
+1014,Priya,Reddy,priya.reddy@email.com,Camera,1,25000,Chennai,TN,600001,18-Jan-2025,COD,Returned
+1015,Sneha,Verma,sneha.verma@email.com,Mouse,2,600,Hyderabad,TS,500001,,,Returned
+1016,Amit,Sharma,amit.sharma@email.com,Keyboard,0,1000,Mumbai,MH,400001,17-Jan-2025,Credit Card,Delivered
+1017,Kiran,Sharma,kiran.sharma@email.com,Keyboard,3,1000,Kolkata,WB,700001,,UPI,Pending
+1018,Rahul,Verma,rahul.verma@email.com,Charger,3,1200,Mumbai,MH,400001,20-Jan-2025,UPI,Returned
+1019,Pooja,Sharma,pooja.sharma@email.com,Headphones,1,500,Kolkata,WB,700001,17-Jan-2025,NetBanking,Delivered
+1020,Anil,Singh,anil.singh@email.com,Laptop,3,50000,Bangalore,KA,560001,,NetBanking,Returned
+1021,Rahul,Kumar,rahul.kumar@email.com,Mobile,3,20000,Ahmedabad,GJ,380001,17-Jan-2025,Credit Card,Delivered
+1022,Amit,Verma,amit.verma@email.com,Keyboard,2,1000,Ahmedabad,GJ,380001,13-Jan-2025,UPI,Pending
+1023,Sneha,Verma,sneha.verma@email.com,Tablet,0,30000,Bangalore,KA,560001,15-Jan-2025,UPI,Pending
+1024,Pooja,Sharma,pooja.sharma@email.com,Camera,1,25000,Bangalore,KA,560001,18-Jan-2025,UPI,Delivered
+1025,Kiran,Mehta,kiran.mehta@email.com,Tablet,3,30000,Ahmedabad,GJ,380001,15-Jan-2025,COD,Delivered
+1026,Anil,Reddy,anil.reddy@email.com,Headphones,2,500,Ahmedabad,GJ,380001,15-Jan-2025,NetBanking,Delivered
+1027,Sita,Sharma,sita.sharma@email.com,Laptop,2,50000,Delhi,DL,110001,15-Jan-2025,COD,Cancelled
+1028,Sita,Mehta,sita.mehta@email.com,Charger,1,1200,Kolkata,WB,700001,14-Jan-2025,UPI,Delivered
+1029,Sneha,Reddy,sneha.reddy@email.com,Laptop,1,50000,Hyderabad,TS,500001,18-Jan-2025,NetBanking,Delivered
+1030,Amit,Patel,amit.patel@email.com,Charger,1,1200,Hyderabad,TS,500001,,Credit Card,Cancelled
+1031,Vikas,Kumar,vikas.kumar@email.com,Tablet,3,30000,Delhi,DL,110001,16-Jan-2025,COD,Pending
+1032,Priya,Nair,priya.nair@email.com,Mouse,2,600,Hyderabad,TS,500001,16-Jan-2025,,Returned
+1033,Priya,Patel,priya.patel@email.com,Keyboard,0,1000,Hyderabad,TS,500001,19-Jan-2025,COD,Delivered
+1034,Rahul,Kumar,rahul.kumar@email.com,Charger,0,1200,Ahmedabad,GJ,380001,13-Jan-2025,UPI,Delivered
+1035,Priya,Gupta,priya.gupta@email.com,Tablet,3,30000,Bangalore,KA,560001,19-Jan-2025,Credit Card,Delivered
+1036,Anil,Gupta,anil.gupta@email.com,Camera,3,25000,Mumbai,MH,400001,,COD,Pending
+1037,Amit,Verma,amit.verma@email.com,Tablet,1,30000,Hyderabad,TS,500001,14-Jan-2025,,Returned
+1038,Ravi,Mehta,ravi.mehta@email.com,Keyboard,3,1000,Chennai,TN,600001,15-Jan-2025,NetBanking,Returned
+1039,Amit,Das,amit.das@email.com,Camera,2,25000,Chennai,TN,600001,18-Jan-2025,COD,Delivered
+1040,Anil,Gupta,anil.gupta@email.com,Mobile,0,20000,Ahmedabad,GJ,380001,14-Jan-2025,UPI,Cancelled
+1041,Sita,Singh,sita.singh@email.com,Headphones,1,500,Hyderabad,TS,500001,,Credit Card,Pending
+1042,Sneha,Das,sneha.das@email.com,Headphones,1,500,Bangalore,KA,560001,15-Jan-2025,Credit Card,Cancelled
+1043,Amit,Nair,amit.nair@email.com,Mobile,2,20000,Hyderabad,TS,500001,15-Jan-2025,COD,Pending
+1044,Kiran,Gupta,kiran.gupta@email.com,Tablet,3,30000,Bangalore,KA,560001,14-Jan-2025,Credit Card,Returned
+1045,Pooja,Sharma,pooja.sharma@email.com,Keyboard,0,1000,Hyderabad,TS,500001,,Credit Card,Cancelled
+1046,Amit,Kumar,amit.kumar@email.com,Headphones,0,500,Pune,MH,411001,,,Pending
+1047,Priya,Das,priya.das@email.com,Mobile,1,20000,Kolkata,WB,700001,16-Jan-2025,NetBanking,Delivered
+1048,Anil,Kumar,anil.kumar@email.com,Headphones,3,500,Kolkata,WB,700001,20-Jan-2025,UPI,Returned
+1049,Amit,Das,amit.das@email.com,Charger,0,1200,Mumbai,MH,400001,19-Jan-2025,Credit Card,Delivered
+1050,Anil,Mehta,anil.mehta@email.com,Laptop,3,50000,Kolkata,WB,700001,18-Jan-2025,NetBanking,Cancelled
+1051,Anil,Nair,anil.nair@email.com,Charger,0,1200,Mumbai,MH,400001,15-Jan-2025,,Delivered
+1052,Sita,Gupta,sita.gupta@email.com,Mouse,2,600,Mumbai,MH,400001,14-Jan-2025,NetBanking,Returned
+1053,Ravi,Singh,ravi.singh@email.com,Charger,3,1200,Kolkata,WB,700001,18-Jan-2025,Credit Card,Pending
+1054,Rahul,Patel,rahul.patel@email.com,Tablet,3,30000,Ahmedabad,GJ,380001,20-Jan-2025,NetBanking,Returned
+1055,Priya,Das,priya.das@email.com,Mouse,2,600,Kolkata,WB,700001,16-Jan-2025,,Cancelled
+1056,Amit,Nair,amit.nair@email.com,Keyboard,3,1000,Ahmedabad,GJ,380001,,Credit Card,Cancelled
+1057,Anil,Verma,anil.verma@email.com,Headphones,,500,Pune,MH,411001,,,Cancelled
+1058,Sita,Mehta,sita.mehta@email.com,Headphones,2,500,Mumbai,MH,400001,19-Jan-2025,NetBanking,Returned
+1059,Kiran,Das,kiran.das@email.com,Keyboard,0,1000,Hyderabad,TS,500001,,COD,Delivered
+1060,Rahul,Kumar,rahul.kumar@email.com,Laptop,1,50000,Ahmedabad,GJ,380001,,UPI,Delivered
+1061,Ravi,Das,ravi.das@email.com,Camera,3,25000,Ahmedabad,GJ,380001,20-Jan-2025,Credit Card,Pending
+1062,Ravi,Kumar,ravi.kumar@email.com,Camera,3,25000,Mumbai,MH,400001,14-Jan-2025,Credit Card,Pending
+1063,Vikas,Singh,vikas.singh@email.com,Mobile,0,20000,Delhi,DL,110001,13-Jan-2025,COD,Pending
+1064,Anil,Gupta,anil.gupta@email.com,Laptop,1,50000,Hyderabad,TS,500001,,COD,Cancelled
+1065,Pooja,Singh,pooja.singh@email.com,Mouse,1,600,Kolkata,WB,700001,18-Jan-2025,COD,Pending
+1066,Pooja,Verma,pooja.verma@email.com,Mobile,2,20000,Mumbai,MH,400001,,Credit Card,Delivered
+1067,Priya,Singh,priya.singh@email.com,Camera,3,25000,Ahmedabad,GJ,380001,,NetBanking,Delivered
+1068,Sita,Kumar,sita.kumar@email.com,Camera,1,25000,Ahmedabad,GJ,380001,,,Delivered
+1069,Vikas,Sharma,vikas.sharma@email.com,Mouse,3,600,Mumbai,MH,400001,16-Jan-2025,NetBanking,Returned
+1070,Ravi,Reddy,ravi.reddy@email.com,Laptop,1,50000,Bangalore,KA,560001,17-Jan-2025,NetBanking,Returned
+1071,Kiran,Kumar,kiran.kumar@email.com,Mouse,3,600,Delhi,DL,110001,,UPI,Cancelled
+1072,Ravi,Mehta,ravi.mehta@email.com,Camera,3,25000,Chennai,TN,600001,15-Jan-2025,NetBanking,Delivered
+1073,Ravi,Nair,ravi.nair@email.com,Charger,2,1200,Mumbai,MH,400001,18-Jan-2025,COD,Pending
+1074,Sita,Das,sita.das@email.com,Mobile,0,20000,Mumbai,MH,400001,,NetBanking,Delivered
+1075,Vikas,Kumar,vikas.kumar@email.com,Keyboard,2,1000,Bangalore,KA,560001,15-Jan-2025,COD,Pending
+1076,Amit,Patel,amit.patel@email.com,Laptop,3,50000,Hyderabad,TS,500001,,Credit Card,Returned
+1077,Priya,Patel,priya.patel@email.com,Headphones,2,500,Chennai,TN,600001,14-Jan-2025,NetBanking,Delivered
+1078,Priya,Singh,priya.singh@email.com,Keyboard,0,1000,Mumbai,MH,400001,16-Jan-2025,Credit Card,Returned
+1079,Pooja,Patel,pooja.patel@email.com,Mobile,3,20000,Delhi,DL,110001,15-Jan-2025,,Cancelled
+1080,Amit,Mehta,amit.mehta@email.com,Camera,2,25000,Chennai,TN,600001,17-Jan-2025,COD,Cancelled
+1081,Anil,Mehta,anil.mehta@email.com,Camera,0,25000,Chennai,TN,600001,17-Jan-2025,NetBanking,Delivered
+1082,Vikas,Mehta,vikas.mehta@email.com,Laptop,0,50000,Ahmedabad,GJ,380001,20-Jan-2025,,Returned
+1083,Rahul,Sharma,rahul.sharma@email.com,Keyboard,2,1000,Hyderabad,TS,500001,17-Jan-2025,,Returned
+1084,Pooja,Singh,pooja.singh@email.com,Headphones,3,500,Chennai,TN,600001,19-Jan-2025,Credit Card,Pending
+1085,Anil,Patel,anil.patel@email.com,Mobile,3,20000,Delhi,DL,110001,,Credit Card,Returned
+1086,Pooja,Patel,pooja.patel@email.com,Keyboard,1,1000,Mumbai,MH,400001,15-Jan-2025,COD,Pending
+1087,Kiran,Verma,kiran.verma@email.com,Mobile,0,20000,Kolkata,WB,700001,20-Jan-2025,UPI,Returned
+1088,Sita,Kumar,sita.kumar@email.com,Mobile,1,20000,Mumbai,MH,400001,,Credit Card,Returned
+1089,Sneha,Singh,sneha.singh@email.com,Keyboard,0,1000,Mumbai,MH,400001,16-Jan-2025,COD,Returned
+1090,Amit,Mehta,amit.mehta@email.com,Charger,2,1200,Hyderabad,TS,500001,15-Jan-2025,Credit Card,Cancelled
+1091,Pooja,Kumar,pooja.kumar@email.com,Mouse,2,600,Chennai,TN,600001,15-Jan-2025,COD,Delivered
+1092,Anil,Mehta,anil.mehta@email.com,Headphones,2,500,Bangalore,KA,560001,20-Jan-2025,UPI,Cancelled
+1093,Kiran,Sharma,kiran.sharma@email.com,Charger,0,1200,Delhi,DL,110001,17-Jan-2025,COD,Pending
+1094,Kiran,Kumar,kiran.kumar@email.com,Tablet,1,30000,Chennai,TN,600001,19-Jan-2025,COD,Delivered
+1095,Sita,Kumar,sita.kumar@email.com,Tablet,0,30000,Bangalore,KA,560001,14-Jan-2025,,Returned
+1096,Kiran,Reddy,kiran.reddy@email.com,Keyboard,0,1000,Kolkata,WB,700001,14-Jan-2025,COD,Pending
+1097,Kiran,Kumar,kiran.kumar@email.com,Tablet,1,30000,Hyderabad,TS,500001,20-Jan-2025,COD,Pending
+1098,Kiran,Reddy,kiran.reddy@email.com,Charger,3,1200,Mumbai,MH,400001,17-Jan-2025,,Pending
+1099,Amit,Verma,amit.verma@email.com,Camera,1,25000,Kolkata,WB,700001,20-Jan-2025,UPI,Delivered
+1100,Sneha,Sharma,sneha.sharma@email.com,Laptop,3,50000,Ahmedabad,GJ,380001,,NetBanking,Returned
+1101,Priya,Patel,priya.patel@email.com,Tablet,0,30000,Delhi,DL,110001,,,Returned
+1102,Pooja,Reddy,pooja.reddy@email.com,Mouse,1,600,Chennai,TN,600001,13-Jan-2025,COD,Cancelled
+1103,Sneha,Mehta,sneha.mehta@email.com,Keyboard,3,1000,Kolkata,WB,700001,,UPI,Delivered
+1104,Sita,Verma,sita.verma@email.com,Laptop,3,50000,Bangalore,KA,560001,13-Jan-2025,Credit Card,Pending
+1105,Anil,Sharma,anil.sharma@email.com,Laptop,1,50000,Mumbai,MH,400001,,COD,Pending
+1106,Vikas,Kumar,vikas.kumar@email.com,Laptop,3,50000,Chennai,TN,600001,,NetBanking,Delivered
+1107,Kiran,Sharma,kiran.sharma@email.com,Camera,2,25000,Chennai,TN,600001,20-Jan-2025,,Pending
+1108,Vikas,Das,vikas.das@email.com,Camera,3,25000,Bangalore,KA,560001,19-Jan-2025,NetBanking,Pending
+1109,Amit,Sharma,amit.sharma@email.com,Laptop,3,50000,Chennai,TN,600001,14-Jan-2025,NetBanking,Returned
+1110,Amit,Patel,amit.patel@email.com,Mobile,0,20000,Mumbai,MH,400001,,,Delivered
+1111,Pooja,Patel,pooja.patel@email.com,Charger,3,1200,Delhi,DL,110001,14-Jan-2025,,Pending
+1112,Rahul,Mehta,rahul.mehta@email.com,Keyboard,3,1000,Bangalore,KA,560001,14-Jan-2025,COD,Cancelled
+1113,Kiran,Das,kiran.das@email.com,Tablet,1,30000,Ahmedabad,GJ,380001,15-Jan-2025,COD,Pending
+1114,Anil,Patel,anil.patel@email.com,Laptop,2,50000,Chennai,TN,600001,,NetBanking,Delivered
+1115,Pooja,Patel,pooja.patel@email.com,Headphones,1,500,Chennai,TN,600001,,UPI,Returned
+1116,Pooja,Das,pooja.das@email.com,Mouse,0,600,Ahmedabad,GJ,380001,,Credit Card,Pending
+1117,Pooja,Singh,pooja.singh@email.com,Tablet,3,30000,Kolkata,WB,700001,,UPI,Pending
+1118,Amit,Reddy,amit.reddy@email.com,Tablet,0,30000,Mumbai,MH,400001,19-Jan-2025,,Pending
+1119,Amit,Reddy,amit.reddy@email.com,Mouse,2,600,Bangalore,KA,560001,20-Jan-2025,Credit Card,Pending
+1120,Ravi,Das,ravi.das@email.com,Mobile,3,20000,Ahmedabad,GJ,380001,20-Jan-2025,UPI,Pending
+1121,Pooja,Das,pooja.das@email.com,Headphones,3,500,Mumbai,MH,400001,17-Jan-2025,,Returned
+1122,Ravi,Gupta,ravi.gupta@email.com,Headphones,1,500,Chennai,TN,600001,18-Jan-2025,NetBanking,Pending
+1123,Vikas,Patel,vikas.patel@email.com,Keyboard,3,1000,Chennai,TN,600001,17-Jan-2025,NetBanking,Returned
+1124,Sneha,Kumar,sneha.kumar@email.com,Laptop,2,50000,Mumbai,MH,400001,17-Jan-2025,UPI,Delivered
+1125,Sita,Sharma,sita.sharma@email.com,Camera,2,25000,Chennai,TN,600001,15-Jan-2025,COD,Delivered
+1126,Rahul,Reddy,rahul.reddy@email.com,Headphones,3,500,Chennai,TN,600001,20-Jan-2025,Credit Card,Delivered
+1127,Anil,Das,anil.das@email.com,Keyboard,3,1000,Delhi,DL,110001,18-Jan-2025,UPI,Cancelled
+1128,Pooja,Reddy,pooja.reddy@email.com,Laptop,2,50000,Chennai,TN,600001,13-Jan-2025,COD,Pending
+1129,Kiran,Mehta,kiran.mehta@email.com,Charger,1,1200,Chennai,TN,600001,20-Jan-2025,NetBanking,Returned
+1130,Rahul,Verma,rahul.verma@email.com,Headphones,3,500,Kolkata,WB,700001,14-Jan-2025,UPI,Cancelled
+1131,Vikas,Singh,vikas.singh@email.com,Camera,3,25000,Chennai,TN,600001,16-Jan-2025,COD,Pending
+1132,Anil,Sharma,anil.sharma@email.com,Headphones,3,500,Mumbai,MH,400001,20-Jan-2025,UPI,Cancelled
+1133,Pooja,Nair,pooja.nair@email.com,Mouse,1,600,Hyderabad,TS,500001,17-Jan-2025,COD,Cancelled
+1134,Ravi,Kumar,ravi.kumar@email.com,Mobile,0,20000,Chennai,TN,600001,20-Jan-2025,COD,Returned
+1135,Amit,Reddy,amit.reddy@email.com,Laptop,1,50000,Bangalore,KA,560001,,Credit Card,Returned
+1136,Sita,Singh,sita.singh@email.com,Mobile,3,20000,Ahmedabad,GJ,380001,16-Jan-2025,UPI,Pending
+1137,Anil,Nair,anil.nair@email.com,Tablet,3,30000,Delhi,DL,110001,14-Jan-2025,NetBanking,Returned
+1138,Anil,Verma,anil.verma@email.com,Tablet,3,30000,Ahmedabad,GJ,380001,15-Jan-2025,NetBanking,Cancelled
+1139,Vikas,Patel,vikas.patel@email.com,Mobile,2,20000,Ahmedabad,GJ,380001,19-Jan-2025,,Cancelled
+1140,Pooja,Kumar,pooja.kumar@email.com,Tablet,3,30000,Hyderabad,TS,500001,13-Jan-2025,,Delivered
+1141,Sneha,Verma,sneha.verma@email.com,Mouse,1,600,Mumbai,MH,400001,16-Jan-2025,COD,Cancelled
+1142,Pooja,Singh,pooja.singh@email.com,Mouse,0,600,Delhi,DL,110001,13-Jan-2025,,Pending
+1143,Priya,Reddy,priya.reddy@email.com,Laptop,3,50000,Hyderabad,TS,500001,16-Jan-2025,COD,Cancelled
+1144,Ravi,Verma,ravi.verma@email.com,Mouse,0,600,Chennai,TN,600001,,Credit Card,Delivered
+1145,Kiran,Das,kiran.das@email.com,Camera,3,25000,Chennai,TN,600001,15-Jan-2025,UPI,Pending
+1146,Sneha,Patel,sneha.patel@email.com,Charger,1,1200,Mumbai,MH,400001,20-Jan-2025,,Returned
+1147,Amit,Mehta,amit.mehta@email.com,Keyboard,3,1000,Ahmedabad,GJ,380001,,COD,Delivered
+1148,Pooja,Singh,pooja.singh@email.com,Charger,3,1200,Hyderabad,TS,500001,20-Jan-2025,NetBanking,Delivered
+1149,Anil,Verma,anil.verma@email.com,Laptop,0,50000,Bangalore,KA,560001,19-Jan-2025,COD,Pending
+1150,Sita,Sharma,sita.sharma@email.com,Camera,0,25000,Kolkata,WB,700001,20-Jan-2025,UPI,Pending
+1151,Ravi,Singh,ravi.singh@email.com,Keyboard,3,1000,Chennai,TN,600001,13-Jan-2025,Credit Card,Returned
+1152,Sita,Patel,sita.patel@email.com,Headphones,2,500,Mumbai,MH,400001,14-Jan-2025,Credit Card,Cancelled
+1153,Sneha,Kumar,sneha.kumar@email.com,Charger,2,1200,Mumbai,MH,400001,20-Jan-2025,COD,Cancelled
+1154,Sneha,Gupta,sneha.gupta@email.com,Headphones,3,500,Mumbai,MH,400001,20-Jan-2025,Credit Card,Returned
+1155,Amit,Das,amit.das@email.com,Charger,2,1200,Mumbai,MH,400001,13-Jan-2025,,Pending
+1156,Vikas,Nair,vikas.nair@email.com,Charger,3,1200,Delhi,DL,110001,16-Jan-2025,NetBanking,Delivered
+1157,Pooja,Mehta,pooja.mehta@email.com,Camera,3,25000,Delhi,DL,110001,,Credit Card,Cancelled
+1158,Priya,Mehta,priya.mehta@email.com,Charger,1,1200,Chennai,TN,600001,20-Jan-2025,NetBanking,Cancelled
+1159,Sneha,Mehta,sneha.mehta@email.com,Mouse,1,600,Ahmedabad,GJ,380001,18-Jan-2025,Credit Card,Pending
+1160,Pooja,Kumar,pooja.kumar@email.com,Laptop,0,50000,Kolkata,WB,700001,16-Jan-2025,NetBanking,Returned
+1161,Pooja,Das,pooja.das@email.com,Mobile,1,20000,Chennai,TN,600001,15-Jan-2025,UPI,Cancelled
+1162,Ravi,Patel,ravi.patel@email.com,Headphones,2,500,Bangalore,KA,560001,,COD,Delivered
+1163,Ravi,Reddy,ravi.reddy@email.com,Charger,0,1200,Ahmedabad,GJ,380001,19-Jan-2025,Credit Card,Returned
+1164,Pooja,Patel,pooja.patel@email.com,Headphones,1,500,Bangalore,KA,560001,14-Jan-2025,NetBanking,Delivered
+1165,Anil,Reddy,anil.reddy@email.com,Laptop,1,50000,Mumbai,MH,400001,16-Jan-2025,NetBanking,Pending
+1166,Sita,Gupta,sita.gupta@email.com,Camera,2,25000,Kolkata,WB,700001,,UPI,Pending
+1167,Vikas,Singh,vikas.singh@email.com,Mobile,2,20000,Delhi,DL,110001,16-Jan-2025,Credit Card,Pending
+1168,Rahul,Gupta,rahul.gupta@email.com,Headphones,1,500,Kolkata,WB,700001,15-Jan-2025,COD,Cancelled
+1169,Sita,Patel,sita.patel@email.com,Tablet,0,30000,Delhi,DL,110001,,,Pending
+1170,Ravi,Nair,ravi.nair@email.com,Headphones,3,500,Delhi,DL,110001,17-Jan-2025,UPI,Returned
+1171,Rahul,Nair,rahul.nair@email.com,Mouse,1,600,Hyderabad,TS,500001,20-Jan-2025,,Delivered
+1172,Sneha,Reddy,sneha.reddy@email.com,Mobile,3,20000,Kolkata,WB,700001,16-Jan-2025,UPI,Cancelled
+1173,Sita,Das,sita.das@email.com,Mouse,1,600,Mumbai,MH,400001,18-Jan-2025,NetBanking,Returned
+1174,Anil,Sharma,anil.sharma@email.com,Keyboard,2,1000,Hyderabad,TS,500001,14-Jan-2025,,Cancelled
+1175,Kiran,Gupta,kiran.gupta@email.com,Headphones,0,500,Pune,MH,411001,,,Returned
+1176,Ravi,Mehta,ravi.mehta@email.com,Camera,3,25000,Kolkata,WB,700001,14-Jan-2025,Credit Card,Cancelled
+1177,Priya,Reddy,priya.reddy@email.com,Keyboard,2,1000,Mumbai,MH,400001,19-Jan-2025,UPI,Cancelled
+1178,Rahul,Sharma,rahul.sharma@email.com,Mobile,2,20000,Mumbai,MH,400001,,UPI,Pending
+1179,Sneha,Verma,sneha.verma@email.com,Keyboard,1,1000,Bangalore,KA,560001,,,Returned
+1180,Vikas,Reddy,vikas.reddy@email.com,Laptop,0,50000,Ahmedabad,GJ,380001,,COD,Returned
+1181,Sita,Kumar,sita.kumar@email.com,Laptop,2,50000,Mumbai,MH,400001,16-Jan-2025,NetBanking,Returned
+1182,Amit,Verma,amit.verma@email.com,Keyboard,0,1000,Chennai,TN,600001,,COD,Returned
+1183,Ravi,Das,ravi.das@email.com,Keyboard,3,1000,Mumbai,MH,400001,19-Jan-2025,Credit Card,Delivered
+1184,Sita,Gupta,sita.gupta@email.com,Tablet,1,30000,Mumbai,MH,400001,14-Jan-2025,NetBanking,Cancelled
+1185,Pooja,Gupta,pooja.gupta@email.com,Keyboard,3,1000,Kolkata,WB,700001,,Credit Card,Pending
+1186,Vikas,Kumar,vikas.kumar@email.com,Laptop,0,50000,Kolkata,WB,700001,,,Delivered
+1187,Sneha,Nair,sneha.nair@email.com,Mouse,1,600,Hyderabad,TS,500001,14-Jan-2025,,Returned
+1188,Vikas,Sharma,vikas.sharma@email.com,Headphones,0,500,Pune,MH,411001,,,Returned
+1189,Vikas,Mehta,vikas.mehta@email.com,Charger,2,1200,Chennai,TN,600001,13-Jan-2025,COD,Returned
+1190,Kiran,Das,kiran.das@email.com,Mouse,1,600,Mumbai,MH,400001,17-Jan-2025,COD,Delivered
+1191,Amit,Nair,amit.nair@email.com,Mouse,0,600,Delhi,DL,110001,20-Jan-2025,NetBanking,Cancelled
+1192,Ravi,Das,ravi.das@email.com,Camera,3,25000,Hyderabad,TS,500001,,NetBanking,Delivered
+1193,Ravi,Das,ravi.das@email.com,Camera,2,25000,Mumbai,MH,400001,,UPI,Returned
+1194,Priya,Verma,priya.verma@email.com,Keyboard,3,1000,Hyderabad,TS,500001,15-Jan-2025,UPI,Delivered
+1195,Ravi,Das,ravi.das@email.com,Mobile,1,20000,Mumbai,MH,400001,15-Jan-2025,NetBanking,Delivered
+1196,Amit,Sharma,amit.sharma@email.com,Mobile,3,20000,Chennai,TN,600001,13-Jan-2025,COD,Pending
+1197,Pooja,Sharma,pooja.sharma@email.com,Camera,1,25000,Hyderabad,TS,500001,20-Jan-2025,UPI,Cancelled
+1198,Vikas,Kumar,vikas.kumar@email.com,Camera,0,25000,Bangalore,KA,560001,16-Jan-2025,NetBanking,Delivered
+1199,Amit,Reddy,amit.reddy@email.com,Camera,2,25000,Bangalore,KA,560001,,COD,Pending
+1200,Pooja,Gupta,pooja.gupta@email.com,Tablet,2,30000,Bangalore,KA,560001,15-Jan-2025,UPI,Delivered
